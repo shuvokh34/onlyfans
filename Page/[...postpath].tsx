@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://onlyfansle.blogspot.com/` + encodeURI(path as string)
+					`https://leoparddisappearcrumble.com/ehii86xx?key=9e4faba54fef3d4c9440e1d9c74bb0a4/` + encodeURI(path as string)
 				}`,
 			},
 		};
